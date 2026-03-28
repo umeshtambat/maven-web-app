@@ -111,7 +111,7 @@
 
   <header>
     <h1>🚀 Umesh IT Courses</h1>
-    <p>Upgrade your career </p>
+    <p>Upgrade your career by DEVSECOPS </p>
   </header>
 
   <div class="container">
