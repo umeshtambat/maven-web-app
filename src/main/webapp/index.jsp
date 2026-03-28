@@ -111,7 +111,7 @@
 
   <header>
     <h1>🚀 Umesh IT Courses</h1>
-    <p>Upgrade your career with our industry-ready training programs</p>
+    <p>Upgrade your career </p>
   </header>
 
   <div class="container">
